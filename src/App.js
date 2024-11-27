@@ -1,6 +1,7 @@
 import React from 'react';
 import { Home } from './Home';
 import { About } from './About';
+import { Navbar } from './Navbar';
 // import { Skills } from 'Skills';
 // import { Projects } from 'Projects';
 // import { Contact } from 'Contact';
@@ -18,6 +19,7 @@ const AppContainer = styled.div`
 function App() {
   return (
     <AppContainer>
+      <Navbar />
       <Home />
       <About />
       {/* <Skills />

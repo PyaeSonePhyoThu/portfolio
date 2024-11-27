@@ -42,10 +42,10 @@ export const Home = () => {
       <Title>Pyae Sone Phyo Thu</Title>
       <Subtitle>Penetration Tester | Bug Bounty Hunter</Subtitle>
       <SocialLinks>
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/PyaeSonePhyoThu" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
-        <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/in/pyae-sone-phyo-thu-982735243" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
       </SocialLinks>
